@@ -4,7 +4,8 @@
 ---- Introducing Flutter, Google's mobile UI framework ----
 https://www.youtube.com/watch?v=fq4N0hgOWzU
 
-> Flutter overview: https://flutter.io/
+> Flutter Home: https://flutter.io/
+> Article: https://medium.com/@nhancv/why-i-move-to-flutter-34c4005b96ef
 
 ### Overview
 
